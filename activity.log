@@ -563,3 +563,4 @@
 2025-10-21 08:57:58 update CI pipeline
 2025-09-23 02:04:41 add tests
 2025-08-26 18:28:01 stabilize build
+2025-02-02 14:26:08 fix null pointer
