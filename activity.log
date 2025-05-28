@@ -850,3 +850,4 @@
 2025-01-12 20:02:42 add example file
 2025-03-14 06:02:00 improve logging format
 2025-11-08 23:31:08 improve security
+2025-05-28 07:42:26 fix docker build
